@@ -1,0 +1,19 @@
+{
+  "name": "reddit-search-app",
+  "version": "1.0.0",
+  "description": "findit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasmeenAbdallah/Reddit-Search-APP.git"
+  },
+  "author": "yasmeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasmeenAbdallah/Reddit-Search-APP/issues"
+  },
+  "homepage": "https://github.com/YasmeenAbdallah/Reddit-Search-APP#readme"
+}
